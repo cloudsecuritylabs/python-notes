@@ -1,0 +1,5 @@
+wolf
+cat
+tiget
+horse
+elephant
